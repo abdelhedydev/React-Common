@@ -1,3 +1,3 @@
 import './Modal';
 import './NativeSlider';
-import './Mobile';
+import './Sidebar';

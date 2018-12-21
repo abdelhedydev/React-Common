@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const MobileWrapper = (WrappedComponent) => styled(WrappedComponent)`
+const SidebarWrapper = (WrappedComponent) => styled(WrappedComponent)`
 .navbar{
      cursor:pointer;
      display:block;
@@ -77,4 +77,4 @@ const MobileWrapper = (WrappedComponent) => styled(WrappedComponent)`
 }
 
 `;
-export default MobileWrapper;
+export default SidebarWrapper;

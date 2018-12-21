@@ -6,16 +6,16 @@ import { withKnobs } from '@storybook/addon-knobs';
 import Backgrounds from './Backgrounds';
 import CenterDecorator from './Decorator/Center';
 
-import Mobile from '../components/Mobile';
+import Sidebar from '../components/Sidebar';
 
 
 addDecorator(CenterDecorator);
 addDecorator(Backgrounds);
 addDecorator(withKnobs);
 
-storiesOf('Mobile', module)
-  .add('Mobile', () => (
+storiesOf('Sidebar', module)
+  .add('Sidebar', () => (
     <React.Fragment>
-      <Mobile />
+      <Sidebar />
     </React.Fragment>
   ));

@@ -1,6 +1,6 @@
 # Common React Components
 
-In this github repo you will find common react components such as Modal,Navbar,...
+In this github repo you will find common react components such as Modal,Sidebar
 
 ## Getting Started
 
