@@ -17,4 +17,4 @@ npm install
 npm run storybook
 ```
 
-Feel free to push your own components and make Pull requests 😊 .
+Feel free to push your own components 😊 .
