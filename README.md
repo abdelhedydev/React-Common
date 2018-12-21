@@ -17,7 +17,7 @@ npm install
 npm run storybook
 ```
 
-## Already Compoenents :
+## Components :
 
 * SideBar
 * Modal
