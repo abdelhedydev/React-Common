@@ -1,10 +1,10 @@
 # Common React Components
 
-In this github repo you will find common react components such as Modal,Sidebar
+In this GitHub repo you will find common react components such as Modal,Sidebar that has developed from scratch
 
 ## Getting Started
 
-I have used create-react-app to set up my project and storybbok for Components documentation 
+I have used create-react-app to set up my react project and Storybook for documentation .
 
 ### Installing
 
