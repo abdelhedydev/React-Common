@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const MobileWrapper = (WrappedComponent) => styled(WrappedComponent)`
-  .navbar{
+.navbar{
      cursor:pointer;
      display:block;
      &-icon{
@@ -15,7 +15,7 @@ const MobileWrapper = (WrappedComponent) => styled(WrappedComponent)`
          border-top:2px solid #2d3436;
          transition:.5s all;
          &::before{
-             content:' ';
+             content:'';
              width: 100%;
              position:absolute;
              top:5px;
@@ -39,17 +39,18 @@ const MobileWrapper = (WrappedComponent) => styled(WrappedComponent)`
     }
      input:checked ~ .navbar__menu{
          display: block;
-        background-color: #b2bec3;
+         background-color: #b2bec3;
          z-index:999;
          list-style: none;
          margin-top: 32px;
          margin-left:auto;
          margin-right:auto;
-         width:100%;
+         width:90%;
          position: absolute;
          top:60px;
          left:0px;
          right:0px;
+         padding-left:0px;
          li{
              color: #2d3436;
              font-size: 14px;
