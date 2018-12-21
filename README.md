@@ -1,6 +1,6 @@
 # Common React Components
 
-In this GitHub repo you will find common react components such as Modal,Sidebar that has developed from scratch
+In this GitHub repo you will find common react components such as Modal,Sidebar,Slider ... that has developed from scratch .
 
 ## Getting Started
 
