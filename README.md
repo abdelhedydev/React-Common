@@ -17,4 +17,12 @@ npm install
 npm run storybook
 ```
 
+## Already Compoenents :
+
+* SideBar
+* Modal
+* Slider
+
+
+
 Feel free to push your own components 😊 .
