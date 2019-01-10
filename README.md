@@ -23,6 +23,10 @@ npm run storybook
 * Modal
 * Slider
 
+## Colors :
+
+https://flatuicolors.com/palette/defo
+
 
 
 Feel free to push your own components 😊 .

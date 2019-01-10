@@ -16,6 +16,11 @@ addDecorator(withKnobs);
 storiesOf('Modal', module)
   .add('Basic 👀 ', () => (
     <React.Fragment>
-      <Modal header={text('Header', 'Modalheader')} content={text('Content', 'ModalContent')} footer={text('Footer', 'ModalFooter')} trigger={<button>Trigger</button>} />
+      <Modal
+        header={text('Header', 'Modalheader')}
+        content={text('Content', 'ModalContent')}
+        footer={text('Footer', 'ModalFooter')}
+        trigger={<button type="button">Trigger</button>}
+      />
     </React.Fragment>
   ));
